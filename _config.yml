@@ -41,6 +41,8 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
   rootLang: en
+  logo: /assets/images/cellophane-suckers.svg
+  logoAndTitle: false
   # latestPostLimit: 2
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo

@@ -1,11 +1,10 @@
 ---
 lang-ref: home
 layout: home
-title: Template_site
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
-background: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
-imageLicense: |
-  [Holotype of _Acalypha gillespieae_ G.A.Levin & I.Montero, 2020](https://www.gbif.org/occurrence/1258001892) from [Missouri Botanical Garden](/institution/1be3aa67-8f90-4309-92f4-bd55426a8c09)
+title: The Cellophane Suckers
+description: The best German Punk & Roll band there is and will be
+background: /assets/images/11590_c_original.png
+imageLicense: 
 height: 90vh
 cta:
   - text: Occurrences
