@@ -69,7 +69,7 @@ var siteConfig = {
       "code": "en",
       "localeCode": "en",
       "label": "English",
-      "default": true,
+      "default": false,
       "textDirection": "ltr",
       "iso3LetterCode": "eng",
       "cmsLocale": "en-GB",
@@ -77,15 +77,15 @@ var siteConfig = {
       "mapTileLocale": "en"
     },
     {
-      "code": "da",
-      "localeCode": "da",
-      "label": "Dansk",
-      "default": false,
+      "code": "de",
+      "localeCode": "de",
+      "label": "Deutsch",
+      "default": true,
       "textDirection": "ltr",
-      "iso3LetterCode": "dan",
-      "cmsLocale": "en-GB",
+      "iso3LetterCode": "deu",
+      "cmsLocale": "de-DE",
       "gbifOrgLocalePrefix": "",
-      "mapTileLocale": "en"
+      "mapTileLocale": "de"
     }
   ],
   "messages": {},
@@ -94,9 +94,7 @@ var siteConfig = {
       "type": "in",
       "key": "publishingOrg",
       "values": [
-        "760d5f24-4c04-40da-9646-1b2c935da502",
-        "2e7df380-8356-4533-bcb3-5459e23c794e",
-        "8e1a97a0-3ca8-11d9-8439-b8a03c50a862"
+        "a064f300-1bc8-41ea-9364-b864ef4e8938"
       ]
     },
     "highlightedFilters": [
@@ -105,8 +103,8 @@ var siteConfig = {
       "institutionKey",
       "collectionKey",
       "catalogNumber",
-      "recordedBy",
-      "identifiedBy"
+      "type_status"
+      "country"
     ],
     "excludedFilters": [
       "occurrenceStatus",
@@ -119,13 +117,13 @@ var siteConfig = {
     ],
     "defaultEnabledTableColumns": [
       "features",
+      "type_status",
       "institutionKey",
       "collectionKey",
       "catalogNumber",
       "country",
       "year",
-      "recordedBy",
-      "identifiedBy"
+      "recordedBy"
     ],
     "tabs": [
       "table",
