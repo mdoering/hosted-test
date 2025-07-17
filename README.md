@@ -9,3 +9,14 @@ This Jekyll website, **[template_site (Staging)](https://template_site.hp.gbif-s
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
 > Powered by [GBIF](https://www.gbif.org/)
+
+
+
+
+
+title: Fungi of the world
+image: http://sitename.com/image/123
+caption: "Photo by Morten H. License CC0."
+
+
+bundle exec jekyll serve --config _config.yml,_config_dev.yml
