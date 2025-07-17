@@ -23,7 +23,7 @@ title: Cellophane Suckers
 email: mdoering@gbif.org
 description: |
   The best German Punk & Roll band there is and will be.
-baseurl: "Psycho" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://markus.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SOCIAL PROFILES that will show in the footer
