@@ -103,7 +103,7 @@ var siteConfig = {
       "institutionKey",
       "collectionKey",
       "catalogNumber",
-      "type_status"
+      "type_status",
       "country"
     ],
     "excludedFilters": [
